@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Playfair Display';
+  src: url(./fonts/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  src: url('./fonts/Lato-Regular.ttf');
+}
