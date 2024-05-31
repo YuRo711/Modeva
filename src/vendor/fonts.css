@@ -8,3 +8,9 @@
   font-weight: 400;
   src: url('./fonts/Lato-Regular.ttf');
 }
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 900;
+  src: url('./fonts/Lato-Black.ttf');
+}
